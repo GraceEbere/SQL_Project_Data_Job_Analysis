@@ -19,7 +19,7 @@ WHERE
 GROUP BY skills
 ORDER BY 
     avg_salary DESC
-LIMIT 20;
+LIMIT 20; 
 
 /*
 Based on the unique job postings in this table set, here are the breakdown of the top 20 skills 
